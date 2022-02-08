@@ -10,4 +10,4 @@ follow the TurtleBot3 SLAM tutorial(https://emanual.robotis.com/docs/en/platform
 
 run the test_world  along with the navigation stack launch files in self_localize, check that the map loads successful and initialize the robot, as the initial spawn in gazebo and amcl launch are different, this can be changed in the amcl launch file.
 
-now, ctl+c the navigation stack and relaunch and the robot should localize without you haveing to do so.
+now, ctl+c the navigation stack and relaunch and the robot should localize without you having to do so.
